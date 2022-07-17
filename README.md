@@ -72,7 +72,7 @@
 <div class="tools">
     <div>Tools</div>
     <img alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white">
-    <img alt="Vscode" src="    https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+    <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 </div>
 <br />
 </p>
