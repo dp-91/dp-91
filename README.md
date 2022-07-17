@@ -58,7 +58,7 @@
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for&logo=linux&logoColor=FCC624" />
     <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=for&logo=nginx&logoColor=white" />
     <img alt="shell-script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=whit">
-    <img alt="pwoershell" src=" https://img.shields.io/badge/powershell-5391FE?style=flat-square&logo=powershell&logoColor=white">
+    <img alt="powershell" src=" https://img.shields.io/badge/powershell-5391FE?style=flat-square&logo=powershell&logoColor=white">
    
 </div>
 <br />
@@ -88,6 +88,8 @@
 
 ## - 📫 How to reach me: ...
     admin@dp91.io
+
+## - ⚡ Fun Facts
 
 
 <!--
