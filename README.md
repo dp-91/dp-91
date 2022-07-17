@@ -1,4 +1,16 @@
-### Hi there 👋
+# FOR THE TECHNOLOGY OF PEACE
+## - 🔭 I’m currently working on ... 
+    1. React (Front End / SSR) 
+
+## - 🌱 I’m currently learning ...
+    2. Bun.sh <https://bun.sh/> (See the Future while you still have human eyes)
+    3. Python - (Automation) - PYAutoGui
+    4. Selenium - [Python/Node(JS)] - (Testing/WebScrappiong) - Chrome and Firefox WebDrivers
+    5. Intermediate+ SQL / Data Architecture - Local/Azure Sandboxing
+
+## - 📫 How to reach me: ...
+    admin@dp91.io
+
 
 <!--
 **dp-91/dp-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
