@@ -10,6 +10,7 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="nextjs-fe" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -18,9 +19,6 @@
     <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
     <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
     <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=for&logo=material-ui&logoColor=white" />
-    <div>FE-Coming Soon</div>
-    <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-    
 </div>
 <br />
 <div>Back End</div>
@@ -35,9 +33,7 @@
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=for&logo=swagger&logoColor=white" />
     <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
     <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
-    <div>BE-Coming Soon</div>
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="nextjs-be" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 </div>
 <br />
@@ -46,7 +42,7 @@
     <img alt="AzureDevOps" src="https://img.shields.io/badge/-AzureDevOps-0078D7?style=for&logo=azuredevops&logoColor=white" />
     <img alt="MSAzure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=square-flat&logo=microsoft-azure&logoColor=white /">
     <div>DevOps-Coming Soon</div>
-    <img alt="awscloud" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+    <img alt="googlegcp" src="https://img.shields.io/badge/Google-(GCP)-232F3E?style=flat-square&logo=Google&logoColor=white">
 </div>
 <br />
 <div class="general-programming-group">
@@ -78,20 +74,14 @@
 </p>
 
 ## - 🔭 I’m currently working on ... 
-    1. React (Front End / SSR) 
+    1. GCP - Certification
 
 ## - 🌱 I’m currently learning ...
-    2. Bun.sh <https://bun.sh/> (See the Future while you still have human eyes)
-    3. Python - (Automation) - PYAutoGui
-    4. Selenium - [Python/Node(JS)] - (Testing/WebScrappiong) - Chrome and Firefox WebDrivers
-    5. Intermediate+ SQL / Data Architecture - Local/Azure Sandboxing
+    2. Intermediate+ SQL / Data Architecture - Local/Azure Sandboxing
 
 ## - 📫 How to reach me: ...
     admin@dp91.io
-
-## - ⚡ Fun Facts
-
-
+    
 <!--
 **dp-91/dp-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
