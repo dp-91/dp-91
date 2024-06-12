@@ -74,10 +74,10 @@
 </p>
 
 ## - 🔭 I’m currently working on ... 
-    1. GCP - Certification
+    1. Machine Learning / AI - Engineer
 
 ## - 🌱 I’m currently learning ...
-    2. Intermediate+ SQL / Data Architecture - Local/Azure Sandboxing
+    2. Machine Learning
 
 ## - 📫 How to reach me: ...
     admin@dp91.io
